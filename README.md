@@ -1,9 +1,9 @@
 ### Hello, welcome to my GitHub! <img src="https://raw.githubusercontent.com/zluvsand/zluvsand/master/wave.gif" width="25px">
 ##
-- 🥝 I am Zolzaya, a.k.a. Zoloo, Zol, Zaya or Zolz
-- 💼 I work as a Data Scientist
-- 🌎 I live in Melbourne, Australia
-- 🐍 My favourite programming language is Python
+🥝 I am Zolzaya, a.k.a. Zoloo, Zol, Zaya or Zolz</br>
+💼 I work as a Data Scientist</br>
+🌎 I live in Melbourne, Australia</br>
+🐍 My favourite programming language is Python
 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&logoColor=white&link=https://www.linkedin.com/in/zluvsand/)](https://medium.com/@zluvsand) 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&link=https://zluvsand.github.io/)](https://zluvsand.github.io/) 
