@@ -11,7 +11,7 @@ jobs:
    runs-on: ubuntu-latest
    steps:
      - uses: actions/checkout@v2
-     - uses: zluvsand/blog-post-workflow@master
+     - uses: zluvsand/zluvsand@master
        with:
          # Replace this URL with your rss feed URL/s
          feed_list: "https://zluvsand.medium.com/feed"
