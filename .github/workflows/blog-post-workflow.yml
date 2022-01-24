@@ -14,4 +14,4 @@ jobs:
      - uses: zluvsand/blog-post-workflow@master
        with:
          # Replace this URL with your rss feed URL/s
-         feed_list: "https://zluvsand.medium.com/"
+         feed_list: "https://zluvsand.medium.com/feed"
