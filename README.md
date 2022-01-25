@@ -22,8 +22,7 @@
     <img height="50" style="margin: 0px 10px 0px 10px" src="https://cdn1.iconfinder.com/data/icons/miscellaneous-68-solid/128/web_website_internet_social_globe_www_-128.png" />
 </a>
 
-<details>
-<summary><b> 📂 Latest blog posts</b></summary></br>
+### 📂 Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Simple ways to manipulate datetime variables with pandas](https://towardsdatascience.com/simple-ways-to-manipulate-datetime-variables-with-pandas-cfe9e8d36d24?source=rss-5bca2b935223------2)
 - [Finding distance between two latitudes and longitudes in Python](https://towardsdatascience.com/finding-distance-between-two-latitudes-and-longitudes-in-python-43e92d6829ff?source=rss-5bca2b935223------2)
@@ -31,7 +30,6 @@
 - [Coarsened Exact Matching in R](https://towardsdatascience.com/coarsened-exact-matching-in-r-a36ae7ef6849?source=rss-5bca2b935223------2)
 - [Propensity Score Matching](https://towardsdatascience.com/propensity-score-matching-a0d373863eec?source=rss-5bca2b935223------2)
 <!-- BLOG-POST-LIST:END -->
-</details>
 
 ### 🙊 A little laughter for you
 ![Jokes Card](https://readme-jokes.vercel.app/api)
