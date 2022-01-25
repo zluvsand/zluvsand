@@ -42,7 +42,7 @@
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=zluvsand&theme=dracula"/></p>
 
 ### 🙊 A little laughter for you
-![Jokes Card](https://readme-jokes.vercel.app/api)
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=pinkish)
 
 <!-- [![Header](https://raw.githubusercontent.com/zluvsand/zluvsand/master/header.png "Header")](https://medium.com/@zluvsand) -->
 <!-- <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/source.gif" width="280" height="auto" /></a> -->
