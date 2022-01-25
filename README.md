@@ -38,6 +38,9 @@
 - [Pipeline, ColumnTransformer and FeatureUnion explained](https://towardsdatascience.com/pipeline-columntransformer-and-featureunion-explained-f5491f815f)
 - [Writing advanced SQL queries in pandas](https://towardsdatascience.com/writing-advanced-sql-queries-in-pandas-1dc494a17afe)
 
+### 📈 GitHub stats
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=zluvsand&theme=dracula"/></p>
+
 ### 🙊 A little laughter for you
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
