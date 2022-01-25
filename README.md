@@ -36,9 +36,7 @@
 - [Organise your Jupyter Notebook with these tips](https://towardsdatascience.com/organise-your-jupyter-notebook-with-these-tips-d164d5dcd51f)
 - [Enrich your Jupyter Notebook with these tips](https://towardsdatascience.com/enrich-your-jupyter-notebook-with-these-tips-55c8ead25255)
 - [Pipeline, ColumnTransformer and FeatureUnion explained](https://towardsdatascience.com/pipeline-columntransformer-and-featureunion-explained-f5491f815f)
-- [Explaining Scikit-learn models with SHAP](https://towardsdatascience.com/explaining-scikit-learn-models-with-shap-61daff21b12a)
 - [Writing advanced SQL queries in pandas](https://towardsdatascience.com/writing-advanced-sql-queries-in-pandas-1dc494a17afe)
-- [5 tips for pandas users](https://towardsdatascience.com/5-tips-for-pandas-users-e73681d16d17)
 
 ### 🙊 A little laughter for you
 ![Jokes Card](https://readme-jokes.vercel.app/api)
