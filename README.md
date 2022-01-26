@@ -3,16 +3,16 @@
 ## Hello, welcome to my GitHub! <img src="https://raw.githubusercontent.com/zluvsand/zluvsand/master/wave.gif" width="25px">
 
 <a href="https://medium.com/@zluvsand">
-    <img height="20" src="https://img.shields.io/badge/-MEDIUM-fe6e95" />
+    <img src="https://img.shields.io/badge/MEDIUM-12100E?logo=medium&color=fe6e95&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/zluvsand/">
-    <img height="20"src="https://img.shields.io/badge/-LINKEDIN-282A36" />
-</a>
-<a href="https://open.spotify.com/playlist/7KmIUNWrK8wEHfQcQfFrQ1?si=0e2d44043b5a40a4">
-    <img height="20" src="https://img.shields.io/badge/-SPOTIFY-fe6e95" />
+    <img src="https://img.shields.io/badge/LINKEDIN-12100E?logo=linkedin&color=282A36&logoColor=white" />
 </a>
 <a href="https://zluvsand.github.io/">
-    <img height="20"src="https://img.shields.io/badge/-WEBSITE-282A36" />
+    <img src="https://img.shields.io/badge/WEBSITE-12100E?logo=html5&color=fe6e95&logoColor=white" />
+</a>
+<a href="https://open.spotify.com/playlist/7KmIUNWrK8wEHfQcQfFrQ1?si=0e2d44043b5a40a4">
+    <img src="https://img.shields.io/badge/SPOTIFY-12100E?logo=spotify&color=282A36&logoColor=white" />
 </a>
 
 ### 📈 GitHub stats
