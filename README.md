@@ -1,9 +1,6 @@
+![](https://raw.githubusercontent.com/zluvsand/zluvsand/master/banner.png)
+
 ## Hello, welcome to my GitHub! <img src="https://raw.githubusercontent.com/zluvsand/zluvsand/master/wave.gif" width="25px">
-### ❄️ About me
-🥝 I am Zolzaya, a.k.a. Zoloo, Zol, Zaya or Zolz</br>
-💼 I work as a Data Scientist</br>
-🌎 I live in Melbourne, Australia</br>
-🐍 My favourite programming language is Python
 
 ### ☎️ Find me on other platforms
 <a href="https://medium.com/@zluvsand">
