@@ -27,11 +27,11 @@
 
 ### 📂 Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [DASH101 — Part 2: Prettify Dash dashboard with CSS and Python](https://towardsdatascience.com/dash101-part-2-prettify-dash-dashboard-with-css-and-python-3866c069a3b6?source=rss-5bca2b935223------2)
 - [DASH101 — Part 1: Introduction to Dash layout](https://towardsdatascience.com/dash101-part-1-introduction-to-dash-layout-810ec449ad43?source=rss-5bca2b935223------2)
 - [Enrich your GitHub profile with these tips](https://towardsdatascience.com/enrich-your-github-profile-with-these-tips-272fa1eafe05?source=rss-5bca2b935223------2)
 - [Simple ways to manipulate datetime variables with pandas](https://towardsdatascience.com/simple-ways-to-manipulate-datetime-variables-with-pandas-cfe9e8d36d24?source=rss-5bca2b935223------2)
 - [Finding distance between two latitudes and longitudes in Python](https://towardsdatascience.com/finding-distance-between-two-latitudes-and-longitudes-in-python-43e92d6829ff?source=rss-5bca2b935223------2)
-- [Feature Selection in Scikit-learn](https://towardsdatascience.com/feature-selection-in-scikit-learn-dc005dcf38b7?source=rss-5bca2b935223------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🙊 A little laughter for you
