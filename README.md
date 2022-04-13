@@ -27,11 +27,11 @@
 
 ### 📂 Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Two ways to create custom transformers with Scikit-learn](https://towardsdatascience.com/two-ways-to-create-custom-transformers-with-scikit-learn-b9089acacd37?source=rss-5bca2b935223------2)
 - [DASH101 — Part 3: Add interactivity with Dash callback](https://towardsdatascience.com/dash101-part-3-add-interactivity-with-dash-callback-420f564ad622?source=rss-5bca2b935223------2)
 - [DASH101 — Part 2: Prettify Dash dashboard with CSS and Python](https://towardsdatascience.com/dash101-part-2-prettify-dash-dashboard-with-css-and-python-3866c069a3b6?source=rss-5bca2b935223------2)
 - [DASH101 — Part 1: Introduction to Dash layout](https://towardsdatascience.com/dash101-part-1-introduction-to-dash-layout-810ec449ad43?source=rss-5bca2b935223------2)
 - [Enrich your GitHub profile with these tips](https://towardsdatascience.com/enrich-your-github-profile-with-these-tips-272fa1eafe05?source=rss-5bca2b935223------2)
-- [Simple ways to manipulate datetime variables with pandas](https://towardsdatascience.com/simple-ways-to-manipulate-datetime-variables-with-pandas-cfe9e8d36d24?source=rss-5bca2b935223------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🙊 A little laughter for you
