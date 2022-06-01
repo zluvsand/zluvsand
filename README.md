@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/zluvsand/zluvsand/master/banner.gif)
 
-## Hello, welcome to my GitHub! <img src="https://raw.githubusercontent.com/zluvsand/zluvsand/master/wave.gif" width="25px">
+## Hello, welcome to my GitHub! <img src="https://raw.githubusercontent.com/zluvsand/zluvsand/master/wave.gif" height="25px" width="25px">
 
 <a href="https://medium.com/@zluvsand">
     <img src="https://img.shields.io/badge/MEDIUM-12100E?logo=medium&color=fe6e95&logoColor=white" />
