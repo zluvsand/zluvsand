@@ -27,11 +27,11 @@
 
 ### 📂 Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Partial dependence plots with Scikit-learn](https://towardsdatascience.com/partial-dependence-plots-with-scikit-learn-966ace4864fc?source=rss-5bca2b935223------2)
 - [Meet HistGradientBoostingClassifier](https://towardsdatascience.com/meet-histgradientboostingclassifier-54a9df60d066?source=rss-5bca2b935223------2)
 - [From ML Model to ML Pipeline](https://towardsdatascience.com/from-ml-model-to-ml-pipeline-9f95c32c6512?source=rss-5bca2b935223------2)
 - [Two ways to create custom transformers with Scikit-learn](https://towardsdatascience.com/two-ways-to-create-custom-transformers-with-scikit-learn-b9089acacd37?source=rss-5bca2b935223------2)
 - [DASH101 — Part 3: Add interactivity with Dash callback](https://towardsdatascience.com/dash101-part-3-add-interactivity-with-dash-callback-420f564ad622?source=rss-5bca2b935223------2)
-- [DASH101 — Part 2: Prettify Dash dashboard with CSS and Python](https://towardsdatascience.com/dash101-part-2-prettify-dash-dashboard-with-css-and-python-3866c069a3b6?source=rss-5bca2b935223------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🙊 A little laughter for you
