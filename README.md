@@ -27,11 +27,11 @@
 
 ### 📂 Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to Image Classification with TensorFlow — Part 2](https://towardsdatascience.com/introduction-to-image-classification-with-tensorflow-part-2-219cf37aceef?source=rss-5bca2b935223------2)
 - [Introduction to Image Classification with TensorFlow — Part 1](https://towardsdatascience.com/introduction-to-image-classification-with-tensorflow-part-1-381d0a373b8f?source=rss-5bca2b935223------2)
 - [Prediction Intervals in Python](https://towardsdatascience.com/prediction-intervals-in-python-64b992317b1a?source=rss-5bca2b935223------2)
 - [Partial dependence plots with Scikit-learn](https://towardsdatascience.com/partial-dependence-plots-with-scikit-learn-966ace4864fc?source=rss-5bca2b935223------2)
 - [Meet HistGradientBoostingClassifier](https://towardsdatascience.com/meet-histgradientboostingclassifier-54a9df60d066?source=rss-5bca2b935223------2)
-- [From ML Model to ML Pipeline](https://towardsdatascience.com/from-ml-model-to-ml-pipeline-9f95c32c6512?source=rss-5bca2b935223------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🙊 A little laughter for you
