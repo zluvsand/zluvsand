@@ -27,11 +27,11 @@
 
 ### 📂 Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to Word2Vec &lpar;Skip-gram&rpar;](https://towardsdatascience.com/introduction-to-word2vec-skip-gram-cb3e9533bcf1?source=rss-5bca2b935223------2)
 - [Statistical significance testing of two independent sample means with SciPy](https://towardsdatascience.com/statistical-significance-testing-of-two-independent-sample-means-with-scipy-638cb834b4d1?source=rss-5bca2b935223------2)
 - [Introduction to Image Classification with TensorFlow — Part 2](https://towardsdatascience.com/introduction-to-image-classification-with-tensorflow-part-2-219cf37aceef?source=rss-5bca2b935223------2)
 - [Introduction to Image Classification with TensorFlow — Part 1](https://towardsdatascience.com/introduction-to-image-classification-with-tensorflow-part-1-381d0a373b8f?source=rss-5bca2b935223------2)
 - [Prediction Intervals in Python](https://towardsdatascience.com/prediction-intervals-in-python-64b992317b1a?source=rss-5bca2b935223------2)
-- [Partial dependence plots with Scikit-learn](https://towardsdatascience.com/partial-dependence-plots-with-scikit-learn-966ace4864fc?source=rss-5bca2b935223------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🙊 A little laughter for you
