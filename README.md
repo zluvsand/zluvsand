@@ -20,10 +20,13 @@
 
 ### 📚 Popular blog posts
 - [Prettifying pandas DataFrames](https://towardsdatascience.com/prettifying-pandas-dataframes-75c1a1a6877d)
+- [Writing advanced SQL queries in pandas](https://towardsdatascience.com/writing-advanced-sql-queries-in-pandas-1dc494a17afe)
 - [Organise your Jupyter Notebook with these tips](https://towardsdatascience.com/organise-your-jupyter-notebook-with-these-tips-d164d5dcd51f)
 - [Enrich your Jupyter Notebook with these tips](https://towardsdatascience.com/enrich-your-jupyter-notebook-with-these-tips-55c8ead25255)
 - [Pipeline, ColumnTransformer and FeatureUnion explained](https://towardsdatascience.com/pipeline-columntransformer-and-featureunion-explained-f5491f815f)
-- [Writing advanced SQL queries in pandas](https://towardsdatascience.com/writing-advanced-sql-queries-in-pandas-1dc494a17afe)
+- [From ML Model to ML Pipeline](https://medium.com/towards-data-science/from-ml-model-to-ml-pipeline-9f95c32c6512)
+- [Propensity Score Matching](https://medium.com/towards-data-science/propensity-score-matching-a0d373863eec)
+
 
 ### 📂 Latest blog posts
 <!-- BLOG-POST-LIST:START -->
