@@ -31,7 +31,7 @@
 ### 📂 Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Simple tool to foster connection among employees](https://towardsdatascience.com/simple-tool-to-foster-connection-among-employees-82ef5c1353f5?source=rss-5bca2b935223------2)
-- [Simple Ways to Create Synthetic Dataset in Python](https://towardsdatascience.com/simple-ways-to-create-synthetic-dataset-in-python-76a8e9a2f35c?source=rss-5bca2b935223------2)
+- [Simple ways to create synthetic dataset in Python](https://towardsdatascience.com/simple-ways-to-create-synthetic-dataset-in-python-76a8e9a2f35c?source=rss-5bca2b935223------2)
 - [Introduction to Word2Vec &lpar;Skip-gram&rpar;](https://towardsdatascience.com/introduction-to-word2vec-skip-gram-cb3e9533bcf1?source=rss-5bca2b935223------2)
 - [Statistical significance testing of two independent sample means with SciPy](https://towardsdatascience.com/statistical-significance-testing-of-two-independent-sample-means-with-scipy-638cb834b4d1?source=rss-5bca2b935223------2)
 - [Introduction to Image Classification with TensorFlow — Part 2](https://towardsdatascience.com/introduction-to-image-classification-with-tensorflow-part-2-219cf37aceef?source=rss-5bca2b935223------2)
