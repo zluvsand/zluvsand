@@ -30,11 +30,11 @@
 
 ### 📂 Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to Mermaid graphs in Markdown](https://towardsdatascience.com/introduction-to-mermaid-graphs-in-markdown-080d4377cab4?source=rss-5bca2b935223------2)
 - [Level up your Git knowledge with these 10 useful tips to browse git history](https://towardsdatascience.com/level-up-your-git-knowledge-with-these-10-useful-tips-to-browse-git-history-5f7b9f4b0e1d?source=rss-5bca2b935223------2)
 - [Introduction to Mathematical Optimisation in Python](https://towardsdatascience.com/introduction-to-mathematical-optimisation-in-python-b88e6556f9e?source=rss-5bca2b935223------2)
 - [Create Your Own Stunning Website in Minutes for Free](https://towardsdatascience.com/create-your-own-stunning-website-in-minutes-for-free-63f0f7c75bf?source=rss-5bca2b935223------2)
 - [Simple tool to foster connection among employees](https://towardsdatascience.com/simple-tool-to-foster-connection-among-employees-82ef5c1353f5?source=rss-5bca2b935223------2)
-- [Simple ways to create synthetic dataset in Python](https://towardsdatascience.com/simple-ways-to-create-synthetic-dataset-in-python-76a8e9a2f35c?source=rss-5bca2b935223------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🙊 A little laughter for you
