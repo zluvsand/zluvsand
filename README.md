@@ -30,11 +30,11 @@
 
 ### 📂 Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [GitHub: Pull Request Template](https://towardsdatascience.com/github-pull-request-template-d3b2caabc794?source=rss-5bca2b935223------2)
-- [Meet Git Stash: Your Secret Chest of Unfinished Code](https://towardsdatascience.com/meet-git-stash-your-secret-chest-of-unfinished-code-6da48da15413?source=rss-5bca2b935223------2)
-- [Introduction to Mermaid graphs in Markdown](https://towardsdatascience.com/introduction-to-mermaid-graphs-in-markdown-080d4377cab4?source=rss-5bca2b935223------2)
-- [Level up your Git knowledge with these 10 useful tips to browse git history](https://towardsdatascience.com/level-up-your-git-knowledge-with-these-10-useful-tips-to-browse-git-history-5f7b9f4b0e1d?source=rss-5bca2b935223------2)
-- [Introduction to Mathematical Optimisation in Python](https://towardsdatascience.com/introduction-to-mathematical-optimisation-in-python-b88e6556f9e?source=rss-5bca2b935223------2)
+- [GitHub: Pull Request Template](https://medium.com/towards-data-science/github-pull-request-template-d3b2caabc794?source=rss-5bca2b935223------2)
+- [Meet Git Stash: Your Secret Chest of Unfinished Code](https://medium.com/towards-data-science/meet-git-stash-your-secret-chest-of-unfinished-code-6da48da15413?source=rss-5bca2b935223------2)
+- [Introduction to Mermaid graphs in Markdown](https://medium.com/towards-data-science/introduction-to-mermaid-graphs-in-markdown-080d4377cab4?source=rss-5bca2b935223------2)
+- [Level up your Git knowledge with these 10 useful tips to browse git history](https://medium.com/towards-data-science/level-up-your-git-knowledge-with-these-10-useful-tips-to-browse-git-history-5f7b9f4b0e1d?source=rss-5bca2b935223------2)
+- [Introduction to Mathematical Optimisation in Python](https://medium.com/towards-data-science/introduction-to-mathematical-optimisation-in-python-b88e6556f9e?source=rss-5bca2b935223------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🙊 A little laughter for you
